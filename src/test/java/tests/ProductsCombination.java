@@ -10,9 +10,8 @@ import utils.GlobalVariables;
 public class ProductsCombination extends TestBase {
 
     private static String PRODUCT_IPHONE_11 = "iPhone 11";
-    private static String EBAY_PRODUCT_TITLE = "NEW SEALED Apple iPhone 11 64GB " +
-            "Black (AT&T/Cricket/Straight Talk) 1yr warranty";
-    private static String AMAZON_PRODUCT_TITLE = "Apple iPhone 11 Pro, 64GB, Gold - for Verizon (Renewed)";
+    private static String EBAY_PRODUCT_TITLE = "Apple iPhone 11- 128GB All Colors - GSM & CDMA Unlocked - Apple Warranty";
+    private static String AMAZON_PRODUCT_TITLE = "Apple iPhone 11 (256GB) - Green (SIM-Free)";
 
     @Test(priority = 1)
     public void verifyProductOnEbay() {
